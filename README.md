@@ -13,6 +13,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### 💫 Social Media 
+<div align="center">
+  <img src="https://discord.com/channels/@kepinn_22" width="52" height="40" alt="discord logo"  />
+  <img src="https://www.instagram.com/lexunvox/?next=%2F" width="52" height="40" alt="instagram logo"  />
+</div>
+
+---
 
 ### 📊 GitHub Statistics
 <div align="center">
